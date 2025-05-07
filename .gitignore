@@ -1,0 +1,14 @@
+# Compilação
+*.o
+*.out
+*.exe
+
+# Editor (VS Code, Vim, etc.)
+.vscode/
+*.swp
+*~
+
+# Sistema
+.DS_Store
+Thumbs.db
+
