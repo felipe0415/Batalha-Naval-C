@@ -11,7 +11,7 @@ Este projeto simula uma versão aprimorada do jogo Batalha Naval em linguagem C,
 Para compilar o projeto:
 
 ```bash
-gcc batalha_naval_completo.c -o batalha_naval
+gcc batalha_naval.c -o batalha_naval
 ```
 ## 🕹️ Execução
 ```
