@@ -12,11 +12,11 @@ Para compilar o projeto:
 
 ```bash
 gcc batalha_naval_completo.c -o batalha_naval
-
+```
 ## 🕹️ Execução
-
+```
 ./batalha_naval
-
+```
 ## 📁 Estrutura
 batalha_naval.c: Código-fonte principal.
 
